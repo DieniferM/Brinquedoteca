@@ -2,7 +2,8 @@
 # Projeto Brinquedoteca / Progetto Brinquedoteca
 
 O objetivo principal do sistema é o gerenciamento de usuários e itens que a instuição possui.
-L'obiettivo principale del sistema è la gestione degli utenti e degli oggetti posseduti dall'istituzione.
+
+(L'obiettivo principale del sistema è la gestione degli utenti e degli oggetti posseduti dall'istituzione.)
 
 ## Funcionalidades / Funzionalità
 
